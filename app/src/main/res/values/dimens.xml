@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--activity_editor.xml dimensions-->
+    <dimen name="editor_main_linear_layout_padding">16dp</dimen>
+    <dimen name="overivew_spacing_margin_top">16dp</dimen>
+
+    <!--activity_catalog.xml dimensions-->
+    <dimen name="catalog_books_textview_padding">16dp</dimen>
+    <dimen name="floating_button_margin">16dp</dimen>
+</resources>

@@ -1,0 +1,39 @@
+<resources>
+    <!-- Name for the application [CHAR LIMIT=12] -->
+    <string name="app_name">Books Stock</string>
+
+    <!-- Title for the CatalogActivity [CHAR LIMIT=20] -->
+    <string name="books_inventory">Books Inventory</string>
+
+    <!-- Title for the EditorActivity [CHAR LIMIT=20] -->
+    <string name="edit_books">Edit Book</string>
+
+    <!-- Label for editor menu option to save pet and leave editor [CHAR LIMIT=20] -->
+    <string name="action_save">Save</string>
+
+    <!--Strings for the activity_editor.xml -->
+    <string name="label_product_overview">Product Overview</string>
+    <string name="edit_product_name">Product Name</string>
+    <string name="edit_price">Price</string>
+    <string name="edit_quantity">Quantity</string>
+    <string name="label_supplier_overview">Supplier Overview</string>
+    <string name="edit_supplier_name">Supplier Name</string>
+    <string name="edit_supplier_contact">Supplier Contact</string>
+
+    <!--Strings for the CatalogActivity-->
+    <string name="the_books_table_contains">The books table contains</string>
+    <string name="books">books</string>
+
+    <!--Strings for the EditorActivity-->
+    <string name="error_saving_book">Error with saving book</string>
+    <string name="book_saved">Book saved with row id:</string>
+
+    <!--All the input fields are required to be populated by user in activity_editor.xml-->
+    <string name="required_field">Required</string>
+
+    <!--Price cannot be negative -->
+    <string name="price_cannot_be_negative">Price cannot be negative</string>
+
+    <!--Quantity cannot be negative -->
+    <string name="quantity_cannot_be_negative">Quantity cannot be negative</string>
+</resources>
